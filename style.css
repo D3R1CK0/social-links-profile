@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     font-family: "Inter", sans-serif;
+    
+}
+.bg-dark1{
+    background-color: black;
+}
+.card1{
+    width: 400px;
+    height: 600px;
+    border: 1px solid;
+    top: 100px;
+    position: absolute;
+
+}
+#parent{
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.card-content{
+    margin-top: 170px;
+}
+.bg-color{
+    background-color:rgb(29, 28, 28)
+}
